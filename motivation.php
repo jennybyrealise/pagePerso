@@ -18,7 +18,7 @@
 
                 <p><strong> Parlons un peu de moi et de qui suis-je?</strong></p>
                   
-                <p> je suis une ancienne restauratrice et je suis une maman au foyer de cinq enfants depuis une dizaine d'années.
+                <p> Je suis une ancienne restauratrice et je suis une maman au foyer de cinq enfants depuis une dizaine d'années.
                     Je suis une personne paradoxale,vous comprendrez si vous me lisez jusqu'au bout!
                     Je suis une fan de jeux vidéo et aime par-dessus tout jouer avec mes loulous.
                     Je suis passionnée d'informatique depuis de longues années. 
@@ -28,14 +28,14 @@
                 <p>
                     J'ai enfin décidé, au dépend de ma famille de prendre du temps pour ma passion, 
                     en participant à la formation digital de web-devellopeur chez Réalise.<br>
-                    J'aimerais vraiment pouvoir allier ma vie professionnelle à celle de maman, 
-                    sachant que mes enfants resteront ma première priorité ,je ne vous le cacherais pas!!
+                    J'aimerai vraiment pouvoir allier ma vie professionnelle à celle de maman, 
+                    sachant que mes enfants resteront ma première priorité ,je ne vous le cacherai pas!!
                     Ainsi que mon travail bien évidemment.<br>
                 </p>
 
                 <p >
                     Au fil de ma formation, je me suis agréablement surprise de mes compétences et
-                    du travail accomplie jusque là!
+                    du travail accompli jusque là!
                     Je souhaite vivement les mettre en pratique et faire de ma passion mon quotidien.
                 </p>  
 
